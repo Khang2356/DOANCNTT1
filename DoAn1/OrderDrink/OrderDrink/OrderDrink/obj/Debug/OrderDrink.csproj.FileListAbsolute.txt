@@ -1,0 +1,31 @@
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\bin\Debug\OrderDrink.exe.config
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\bin\Debug\OrderDrink.exe
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\bin\Debug\OrderDrink.pdb
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.Properties.Resources.resources
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.exe
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.pdb
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.fShowCategory.resources
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.FormIp.resources
+F:\Download\OrderDrink\OrderDrink\bin\Debug\OrderDrink.exe.config
+F:\Download\OrderDrink\OrderDrink\bin\Debug\OrderDrink.exe
+F:\Download\OrderDrink\OrderDrink\bin\Debug\OrderDrink.pdb
+F:\Download\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csprojAssemblyReference.cache
+F:\Download\OrderDrink\OrderDrink\obj\Debug\OrderDrink.FormIp.resources
+F:\Download\OrderDrink\OrderDrink\obj\Debug\OrderDrink.fShowCategory.resources
+F:\Download\OrderDrink\OrderDrink\obj\Debug\OrderDrink.Properties.Resources.resources
+F:\Download\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csproj.GenerateResource.cache
+F:\Download\OrderDrink\OrderDrink\obj\Debug\OrderDrink.exe
+F:\Download\OrderDrink\OrderDrink\obj\Debug\OrderDrink.pdb
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\bin\Debug\OrderDrink.exe.config
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\bin\Debug\OrderDrink.exe
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\bin\Debug\OrderDrink.pdb
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csprojAssemblyReference.cache
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\obj\Debug\OrderDrink.FormIp.resources
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\obj\Debug\OrderDrink.fShowCategory.resources
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\obj\Debug\OrderDrink.Properties.Resources.resources
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csproj.GenerateResource.cache
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csproj.CoreCompileInputs.cache
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\obj\Debug\OrderDrink.exe
+E:\DO AN 1,2,3\DOAN1\DoAn1-20201112T155736Z-001\DoAn1\OrderDrink\OrderDrink\OrderDrink\obj\Debug\OrderDrink.pdb
